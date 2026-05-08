@@ -1,0 +1,47 @@
+Experiment Number 7:
+1. Stuructured Programming paradigm vs oject oriented programming paradigm
+2. What are the features of Object oriented programming
+3. Difference between C, C++ and Java Programming Language
+4. Explain following OOP concepts: 
+i. Abstraction
+ii. Encapsulation
+iii. Class and Object
+iv. Polymorphism
+v. Inheritance
+5. Structure of Basic C++ Program
+6. What is importance of namespace in C++
+7. Functions in C++
+8. Types of Functions
+9. Sample Program
+
+Experiment Number 8:
+Title: Class and Object
+Aim: To understand the concepts of class and objects using C++
+
+1. What is class and Object in C++
+2. Creating class and Object - Syntax
+3. Different access specifiers: public, private, protected
+4. Array of objects
+5. Sample Program
+6. Factorial of given Number
+7. 
+
+Experiment Number 9:
+Title: Inheritance 1
+Aim: To understand the concepts of Inheritance and its Types
+
+1. Syntax of defining a method outside of class using :: operator
+2. What is Inheritance, base class and derived class
+3. What are the advantages of using inheritance in c++
+
+Syntax:
+Deriving new class from existing class
+
+Mode of inheritance:
+Public inheritance Mode
+protected inheritance Mode
+Private inheritance mode
+
+Types of Inheritance
+Single Inheritance: Syntax, suitable diagram and example
+Multilevel Inheritance: Syntax, suitable diagram and example
